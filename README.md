@@ -1,7 +1,5 @@
-![](https://raw.githubusercontent.com/science64/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/science64/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
-![](https://raw.githubusercontent.com/science64/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/science64/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/science64/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 Generate visualizations of GitHub user and repository statistics with GitHub
