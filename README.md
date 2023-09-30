@@ -1,5 +1,3 @@
-# [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
-
 ![](https://raw.githubusercontent.com/science64/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/science64/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
